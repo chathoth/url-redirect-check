@@ -51,6 +51,3 @@ The CSV file should contain two columns: source path and destination path.
 - Modify the `DOMAIN_NAME` variable in the Jenkinsfile to specify the domain to check redirects against.
 - Update paths and file names in the Jenkinsfile and Python script as needed based on your project structure.
 
----
-
-Feel free to customize this README with additional details or instructions specific to your project requirements!
